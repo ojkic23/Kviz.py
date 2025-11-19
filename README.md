@@ -8,4 +8,4 @@ Welcome to my GitHub repository dedicated to GUI applications! Here you will fin
 ### [Kviz]
 - 📌 A simple quiz application that allows users to answer multiple-choice questions. It keeps track of scores and provides feedback on answers. Designed with an intuitive GUI for an engaging user experience.
 - 🔧 Technologies used: Tkinter / Pillow / PyGame.
-- 📥 [Link to repository] - ((https://github.com/ojkic23/Kviz.py/blob/39e651ac4df507d1429285fff1a21285ecd65a16/Kviz.py))
+- 📥 [Link to repository] - (https://github.com/ojkic23/Kviz.py/blob/39e651ac4df507d1429285fff1a21285ecd65a16/Kviz.py)
