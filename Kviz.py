@@ -154,10 +154,10 @@ class QuizGame:
     def show_score(self):
         messagebox.showinfo("Kviz je završen", f"Osvojili ste {self.score} od {len(self.questions)} poena.")
 
-# Kreiranje prozora
+
 window = tk.Tk()
 window.configure(bg="#F5F5F5")
 game = QuizGame(window)
 
-# Pokretanje petlje za prikazivanje prozora
+
 window.mainloop()
